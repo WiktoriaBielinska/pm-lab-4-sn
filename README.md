@@ -13,4 +13,3 @@ Numer albumu: 72518
 Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
-...
